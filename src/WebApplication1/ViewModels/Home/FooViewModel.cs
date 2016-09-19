@@ -11,16 +11,6 @@
         public bool FormIsLicensedAgent { get; set; }
 
         public bool FormEmailOptIn { get; set; }
-        /*
-            "SendThankYouEmail": "True",
-            "BasicInfo.FullName": "Shawn Lee",
-            "BasicInfo.EmailAddress": "(662) 622-6263",
-            "BasicInfo.QuestionOrComments": "asdf",
-            "PreferredDay": "Wednesday",
-            "PreferredTime": "Afternoon",
-            "FormIsLicensedAgent": "true",
-            "FormEmailOptIn": "true"
-        */
     }
 
     public class BasicInfoViewModel
